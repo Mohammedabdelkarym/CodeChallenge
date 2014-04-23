@@ -1,0 +1,17 @@
+I used Mantle framework 
+
+To map json dictionary to objective-c objects
+
+
+Coca pods as dependency management tool
+
+Client class for network connection 
+
+Mangaer class for managing the data and use client class to access the internet connection.
+It follows follows facade pattern
+
+
+Actor class is model which represent single actor
+
+
+
